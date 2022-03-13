@@ -12,7 +12,7 @@ body {
     color: black;
 }
 
-/* headings and logo */
+/* heading*/
 
 h1 {
     font-family: Roboto Slab, sans-serif;
@@ -21,4 +21,18 @@ h1 {
     color: black;
     text-align: center;
     font-size: 269%;
+}
+
+/* navigation links */
+
+#navbar {
+    font-family: Roboto Slab, sans-serif;
+    font-size: 100%;
+    letter-spacing: 3px;   
+}
+
+#navbar li {
+    display: inline;
+    list-style-type: none;
+    
 }

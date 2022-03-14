@@ -12,16 +12,25 @@ body {
     color: black;
 }
 
-/* heading*/
+/* heading and logo*/
 
 h1 {
     font-family: Roboto Slab, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     color: black;
-    text-align: center;
-    font-size: 269%;
 }
+
+#logo {
+    text-align: center;
+    font-size: 280%;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 
 /* navigation links */
 
@@ -32,7 +41,12 @@ h1 {
 }
 
 #navbar li {
-    display: inline;
+    float: left;
     list-style-type: none;
-    
+    margin-left: 30px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: inherit;
 }

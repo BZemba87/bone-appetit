@@ -58,3 +58,16 @@ a {
 .active {
     border-bottom: 1px solid black;
 }
+
+/* image and text divs */
+
+#dog-bowl-girl {
+ background: url('../images/pexels-daria-shevtsova-2053922.jpg');
+  background-size: cover;
+  background-position: left;
+}
+
+#cafe-description {
+    margin-left: 50%;
+    flex-grow: 1;
+}

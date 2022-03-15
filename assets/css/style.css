@@ -8,7 +8,7 @@
 
 body {
     font-family: Open Sans, sans-serif;
-    font-weight: 300;
+    font-weight: 100;
     color: black;
     background-color: #FFF6FE;
 }
@@ -17,14 +17,14 @@ body {
 
 h1 {
     font-family: Roboto Slab, sans-serif;
-    text-transform: uppercase;
+    font-weight: 200;
     letter-spacing: 4px;
     color: black;
 }
 
 #logo {
     text-align: center;
-    font-size: 280%;
+    font-size: 250%;
     text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ a {
 
 #navbar {
     font-family: Roboto Slab, sans-serif;
-    font-size: 100%;
+    font-size: 95%;
     letter-spacing: 3px;   
     padding: 20px;
 }
@@ -68,11 +68,14 @@ div {
 
 #dog-bowl-girl {
     background-image: url('..//images/pexels-daria-shevtsova-2053922.jpg');
-    height: 700px;
+    height: 750px;
     width: 100%;
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center center;
-    background-attachment: fixed;
+    background-attachment: scroll;
+    position: relative;
+    overflow: hidden;
 } 
 
 #welcome-text  {
@@ -82,8 +85,10 @@ div {
     width: 300px;
     height: 200px;
 
-    padding-top: 60px;
-    padding-left: 40px;
+    padding-top: 95px;
+    padding-left: 150px;
+
+    position: absolute;
 }
 
 

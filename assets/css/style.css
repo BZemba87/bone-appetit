@@ -70,7 +70,6 @@ div {
 #dog-bowl-girl {
     background-image: url('../images/pexels-daria-shevtsova-2053922\ resized.jpg');
     height: 600px;
-    width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -98,3 +97,30 @@ footer {
     height: 100px;
 }
 
+p  {
+    font-family: Roboto Slab, sans-serif;
+    text-align: right;
+    letter-spacing: 3px;
+    font-size: 85%;
+    margin-right: 40px;
+    padding-top: 2%;
+}
+
+#contacts  {
+    font-size: 80%;
+}
+
+.socials {
+    text-align: left;
+    padding-top: 2%;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 120%;
+    margin: 1%;
+    padding: 2%;
+}

@@ -43,9 +43,9 @@ a {
 }
 
 #navbar li {
-    float: left;
+    display: inline-block;
     list-style-type: none;
-    margin-left: 30px;
+    margin-left: 100px;
 }
 
 #navbar a {
@@ -76,7 +76,7 @@ div {
     background-position: center center;
     background-attachment: scroll;
     position: relative;
-    overflow: hidden;
+   overflow: hidden;
 } 
 
 #welcome-text  {

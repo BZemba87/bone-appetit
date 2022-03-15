@@ -10,6 +10,7 @@ body {
     font-family: Open Sans, sans-serif;
     font-weight: 300;
     color: black;
+    background-color: #FFF6FE;
 }
 
 /* heading and logo*/
@@ -31,13 +32,13 @@ a {
     text-decoration: none;
 }
 
-
 /* navigation links */
 
 #navbar {
     font-family: Roboto Slab, sans-serif;
     font-size: 100%;
     letter-spacing: 3px;   
+    padding: 20px;
 }
 
 #navbar li {
@@ -61,13 +62,18 @@ a {
 
 /* image and text divs */
 
-#dog-bowl-girl {
- background: url('../images/pexels-daria-shevtsova-2053922.jpg');
-  background-size: cover;
-  background-position: left;
+div {
+    margin: 0;
 }
 
-#cafe-description {
-    margin-left: 50%;
-    flex-grow: 1;
-}
+#dog-bowl-girl {
+    background-image: url('..//images/pexels-daria-shevtsova-2053922.jpg');
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+} 
+
+
+

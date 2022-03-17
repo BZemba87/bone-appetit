@@ -20,6 +20,7 @@ h1 {
     font-weight: 200;
     letter-spacing: 4px;
     color: black;
+    padding-top: 0.5%;
 }
 
 #logo {
@@ -115,7 +116,7 @@ footer {
 p  {
     font-family: Roboto Slab, sans-serif;
     text-align: center;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     font-size: 85%;
     padding-bottom: 4%;
 }

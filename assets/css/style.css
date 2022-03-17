@@ -146,11 +146,10 @@ p  {
     line-height: 2;
 }
 
-#dog-intolerances {
-    font-size: 90%;
-    text-align: center;
-    padding-top: 150px;
-    padding-left: 50px;
+#doggy {
+    font-size: large;
+    color: #FE94AD;
+    background-color: #36454F;
 }
 
 .menu-right {
@@ -167,16 +166,18 @@ p  {
     list-style-type: none;
 }
 
-#doggy {
-    font-size: large;
-    color: #FE94AD;
-    background-color: #36454F;
-}
-
 #human {
     font-size: large;
     color: #FE94AD;
     background-color: #36454F;
 }
+
+#dog-intolerances {
+    font-size: 90%;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 50px;
+}
+
 
 

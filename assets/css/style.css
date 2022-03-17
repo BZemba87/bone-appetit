@@ -192,6 +192,10 @@ img {
     margin-right: 40px;
 }
 
+section, h2 {
+    text-align: center;
+}
+
 input, select {
     width: 100%;
     padding: 12px 20px;

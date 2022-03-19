@@ -217,7 +217,7 @@ input, select {
     padding: 1rem 2.25rem;
     margin-right: 2.5rem;
     display: block;
-    border-bottom:  1px solid #FFF6FE;
+    border:  1px solid #FFF6FE;
     border-radius: 4px;
     box-sizing: border-box;
     background-color: #FE94AD;

@@ -26,12 +26,12 @@ h1 {
 #logo {
     text-align: right;
     font-size: 250%;
-    text-decoration: none;
     margin-right: 2.5rem;
 }
 
 a {
     text-decoration: none;
+    /*added to remove underline on heading/logo*/
 }
 
 /* navigation links */
@@ -75,8 +75,9 @@ div {
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
+    /*background image to scroll with the rest of the page*/
     position: relative;
-   overflow: hidden;
+    overflow: hidden;
 } 
 
 #welcome-text  {
@@ -90,12 +91,15 @@ div {
     padding-left: 6.25rem;
 
     position: absolute;
+    /*to keep text in place relative to the background image*/
 }
 
 /* footer */
 
 footer {
     height: 6.25rem;
+    clear: both;
+    /*to keep the footer in place on menu/book page on smaller screens*/
 }
 
 .socials {
@@ -119,15 +123,18 @@ p  {
     letter-spacing: 2px;
     font-size: 85%;
     padding-bottom: 4%;
+    /*to override font set for body*/
 }
 
 #hours {
     font-weight: bold;
     line-height: 1.5;
+    /*to override font set for body and paragraph*/
 }
 
 #contacts  {
     font-size: 80%;
+    /*to override font set for body and paragraph*/
 }
 
 /* menu page */
@@ -192,8 +199,12 @@ img {
     margin-right: 2.5rem;
 }
 
-section, h2 {
+h2 {
     text-align: center;
+}
+
+section {
+    text-align: left;
 }
 
 input, select {
@@ -201,7 +212,7 @@ input, select {
     padding: 0.75rem 1.25rem;
     margin-left: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+   border-bottom:  1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
   }

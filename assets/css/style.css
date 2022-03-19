@@ -190,6 +190,7 @@ p  {
 
 img {
     margin-left: 2.5rem;
+    padding-top: 1%;
 }
 
 .form-section {
@@ -201,21 +202,41 @@ img {
 
 h2 {
     text-align: center;
+    font-size: 200%;
 }
 
 section {
     text-align: left;
+    width: 25%;
+    padding-right: 15rem;
+    padding-top: 2.5%;
 }
 
 input, select {
     width: 100%;
-    padding: 0.75rem 1.25rem;
-    margin-left: 8px 0;
-    display: inline-block;
-   border-bottom:  1px solid #ccc;
+    padding: 1rem 2.25rem;
+    margin-right: 2.5rem;
+    display: block;
+    border-bottom:  1px solid #FFF6FE;
     border-radius: 4px;
     box-sizing: border-box;
+    background-color: #FE94AD;
+    color: #36454F;
   }
 
+  /*Request booking button*/
+
+  .request {
+      margin-top: 1rem;
+      border-radius: 4px;
+      font-size: 100%;
+      background-color:#36454F;
+      color: #FE94AD;
+  }
+
+  .request:hover {
+      background-color:#FE94AD;
+      color:#36454F;
+  }
 
 

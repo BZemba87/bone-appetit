@@ -27,7 +27,7 @@ h1 {
     text-align: right;
     font-size: 250%;
     text-decoration: none;
-    margin-right: 40px;
+    margin-right: 2.5rem;
 }
 
 a {
@@ -40,13 +40,13 @@ a {
     font-family: Roboto Slab, sans-serif;
     font-size: 95%;
     letter-spacing: 3px;   
-    padding: 20px;
+    padding: 1.25rem;
 }
 
 #navbar li {
     display: inline-block;
     list-style-type: none;
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 
 #navbar a {
@@ -70,7 +70,7 @@ div {
 
 #dog-bowl-girl {
     background-image: url('../images/pexels-daria-shevtsova-2053922\ resized.jpg');
-    height: 750px;
+    height: 46.875rem;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -83,11 +83,11 @@ div {
     color: #36454F;
     letter-spacing: 3px;
 
-    width: 300px;
-    height: 200px;
+    width: 18.75rem;
+    height: 12.5rem;
 
-    padding-top: 95px;
-    padding-left: 100px;
+    padding-top: 5.9375rem;
+    padding-left: 6.25rem;
 
     position: absolute;
 }
@@ -95,7 +95,7 @@ div {
 /* footer */
 
 footer {
-    height: 100px;
+    height: 6.25rem;
 }
 
 .socials {
@@ -133,7 +133,7 @@ p  {
 /* menu page */
 
 #container {
-    height: 700px;
+    height: 43.75rem;
 }
 
 .menu-left {
@@ -141,8 +141,8 @@ p  {
     text-align: center;
     letter-spacing: 2px;
     width: 40%;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     line-height: 2;
 }
 
@@ -157,8 +157,8 @@ p  {
     text-align: center;
     letter-spacing: 2px;
     width: 40%;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     line-height: 2;
 }
 
@@ -175,21 +175,21 @@ p  {
 #dog-intolerances {
     font-size: 90%;
     text-align: center;
-    padding-top: 150px;
-    padding-left: 50px;
+    padding-top: 9.375rem;
+    padding-left: 3.125rem;
 }
 
 /* book */
 
 img {
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 
 .form-section {
    float: right;
-    height: 700px;
-    margin-left: 300px;
-    margin-right: 40px;
+    height: 43.75rem;
+    margin-left: 18.75rem;
+    margin-right: 2.5rem;
 }
 
 section, h2 {
@@ -198,7 +198,7 @@ section, h2 {
 
 input, select {
     width: 100%;
-    padding: 12px 20px;
+    padding: 0.75rem 1.25rem;
     margin-left: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;

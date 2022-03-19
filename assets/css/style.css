@@ -188,27 +188,29 @@ p  {
 
 /* book */
 
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 img {
-    margin-left: 2.5rem;
     padding-top: 1%;
 }
 
-.form-section {
-   float: right;
-    height: 43.75rem;
-    margin-left: 18.75rem;
-    margin-right: 2.5rem;
+.form-div {
+    height: 43.75rem;  
 }
 
 h2 {
     text-align: center;
-    font-size: 200%;
+    font-size: 180%;
 }
 
-section {
+#form-div {
     text-align: left;
     width: 25%;
-    padding-right: 15rem;
+    padding-right: 6rem;
     padding-top: 2.5%;
 }
 

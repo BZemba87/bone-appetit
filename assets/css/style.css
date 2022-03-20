@@ -40,13 +40,13 @@ a {
     font-family: Roboto Slab, sans-serif;
     font-size: 95%;
     letter-spacing: 3px;   
-   display: flex;
-   justify-content: space-between;
-   padding: 1.25rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem;
 }
 
 #navbar li {
-    display: block;
+    display: flex;
     list-style-type: none;
     margin-left: 2.5rem;
 }
@@ -58,6 +58,7 @@ a {
 
 #navbar a:hover {
     background-color: rgba(254,148,173,0.7);
+    transition: 0.9s;
 }
 
 .active {
@@ -245,6 +246,53 @@ input, select {
 
 /* media queries for small to medium mobile screens */
 
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 1200px) {
+
+    html {
+        font-size: 16px;
+    }
+
+    h1#logo {
+        line-height: 25px;
+        text-align: center;
+        margin-top: 20px;
+        margin-right: 20px;
+        margin-left: 20px;
+        padding-top: 2%;
+        font-size: 30px;
+    }
+
+   nav#navbar {
+        text-align: center;
+        width: 100%;
+    }
+
+    #navbar li {
+        margin-left: 0;
+    }
+
+    #welcome-text {
+        right: 0;
+        font-size: 12px;
+    }
   
+    .menu-left, .menu-right {
+        font-size: 13px;
+    }
+
+    #dog-intolerances {
+        font-size: 12px;
+        display: inline-block;
+    }
+
+    div img {
+        display: none;
+    }
+
+    #form-div {
+        width: 90%;
+        padding-right: 0;   
+    }
+
+
 }

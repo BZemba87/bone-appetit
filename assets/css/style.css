@@ -160,6 +160,7 @@ p  {
     font-size: large;
     color: #FE94AD;
     background-color: #36454F;
+    border-block: ;
 }
 
 .menu-right {
@@ -248,10 +249,7 @@ input, select {
 
 @media screen and (min-width: 320px) and (max-width: 1200px) {
 
-    html {
-        font-size: 16px;
-    }
-
+ 
     h1#logo {
         line-height: 25px;
         text-align: center;
@@ -280,19 +278,37 @@ input, select {
         font-size: 13px;
     }
 
+    #human {
+        letter-spacing: 0;
+    }
+
+    #doggy {
+        letter-spacing: 0;
+    }
+
     #dog-intolerances {
         font-size: 12px;
         display: inline-block;
     }
 
-    div img {
-        display: none;
-    }
 
     #form-div {
         width: 90%;
         padding-right: 0;   
     }
 
+    @media screen and (min-width: 320px) and (max-width: 710px) {
+        
+        div img {
+            display: none;
+        }
+
+        #form-div {
+            width: 80%;
+            padding-right: 0;   
+            padding-left: 2rem;
+        }
+
+    }
 
 }

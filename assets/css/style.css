@@ -86,13 +86,10 @@ div {
 #welcome-text  {
     color: #36454F;
     letter-spacing: 3px;
-
-    width: 18.75rem;
-    height: 12.5rem;
-
+    display: flex;
+    justify-content: space-evenly;
     padding-top: 5.9375rem;
-    padding-left: 6.25rem;
-
+    padding-left: 6rem;
     position: absolute;
     /*to keep text in place relative to the background image*/
 }
@@ -144,6 +141,8 @@ p  {
 
 #container {
     height: 43.75rem;
+    position: relative;
+    /*position: relative to keep dog-intolerances at bottom*/
 }
 
 .menu-left {
@@ -160,7 +159,6 @@ p  {
     font-size: large;
     color: #FE94AD;
     background-color: #36454F;
-    border-block: ;
 }
 
 .menu-right {
@@ -185,9 +183,11 @@ p  {
 
 #dog-intolerances {
     font-size: 90%;
-    text-align: center;
+    position: absolute;
+    bottom: 0px;
     padding-top: 9.375rem;
     padding-left: 3.125rem;
+    /*position: absolute to keep at bottom of div container*/
 }
 
 /* book */
@@ -288,7 +288,7 @@ input, select {
 
     #dog-intolerances {
         font-size: 12px;
-        display: inline-block;
+        padding-bottom: 5%;
     }
 
 

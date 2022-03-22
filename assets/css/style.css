@@ -85,11 +85,13 @@ div {
 
 #welcome-text  {
     color: #36454F;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
+    font-size: 80%;
     display: flex;
-    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
     padding-top: 5.9375rem;
-    padding-left: 6rem;
+    padding-left: 3rem;
     position: absolute;
     /*to keep text in place relative to the background image*/
 }

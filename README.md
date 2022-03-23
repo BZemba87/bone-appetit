@@ -4,4 +4,4 @@
 
 This is a website for a dog cafe in London named Bone Appetit.  It is designed to be responsive and accessible on a selection of devices, making it easy to navigate for potential cafe customers.
 
-<h2 align="center"><img src="/workspace/bone-appetit/docs/images/am-i-responsive.jpg></h2>
+<h2 align="center"><img src="http://am-i-responsive.jpg></h2>

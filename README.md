@@ -8,9 +8,9 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
 ## User Experience (UX)
 
-    ### User stories
+    User stories
 
-        #### First Time Visitor Goals
+    First Time Visitor Goals
 
         1.  As a first time visitor, I want to easily understand the main purpose of the site and learn more about a dog cafe in London.
         2. As a first time visitor, I want to be able to easily navigate the site to find the food menu and booking request form.
@@ -27,7 +27,7 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
         #### Colour Scheme
         - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance of being fun and attractive but also professional.  
-        
+
 
 
 

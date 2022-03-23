@@ -249,7 +249,7 @@ input, select {
 
 /* media queries for small to medium mobile screens */
 
-@media screen and (min-width: 320px) and (max-width: 1200px) {
+@media screen and (min-width: 320px) and (max-width: 710px) {
 
  
     h1#logo {
@@ -277,7 +277,7 @@ input, select {
     }
   
     .menu-left, .menu-right {
-        font-size: 13px;
+        font-size: 9.5px;
     }
 
     #human {
@@ -293,24 +293,40 @@ input, select {
         padding-bottom: 5%;
     }
 
+    div img {
+        display: none;
+    }
 
     #form-div {
         width: 90%;
         padding-right: 0;   
     }
+}
 
-    @media screen and (min-width: 320px) and (max-width: 710px) {
+@media screen and (min-width: 378px) and  (max-width: 568px) {
+
+    #form-div {
+        width: 60%;
+        padding-right: 0;   
+        padding-left: 2rem;
+    }
+}
+    
+
+
+    @media screen and (min-width: 569px) and (max-width: 768px) {
         
-        div img {
-            display: none;
-        }
-
         #form-div {
-            width: 80%;
-            padding-right: 0;   
+            width: 60%;
+            padding-right: 1rem;   
             padding-left: 2rem;
         }
-
     }
 
-}
+
+    
+    
+
+  
+
+

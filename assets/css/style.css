@@ -163,6 +163,16 @@ p  {
     background-color: #36454F;
 }
 
+#dog-menu {
+    padding-top: 30px;
+    /*space between menu heading and menu items*/
+}
+
+#dog-drinks {
+    padding-top: 30px;
+    /*space between menu items and drinks*/
+}
+
 .menu-right {
     float: right;
     text-align: center;
@@ -181,6 +191,16 @@ p  {
     font-size: large;
     color: #FE94AD;
     background-color: #36454F;
+}
+
+#human-menu {
+    padding-top: 30px;
+    /*space between menu heading and menu items*/
+}
+
+#human-drinks {
+    padding-top: 30px;
+    /*space between menu items and drinks*/
 }
 
 #dog-intolerances {

@@ -8,25 +8,39 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
 ## User Experience (UX)
 
-    User stories
+    - ### User stories
 
-    First Time Visitor Goals
+    - #### First Time Visitor Goals
 
         1.  As a first time visitor, I want to easily understand the main purpose of the site and learn more about a dog cafe in London.
         2. As a first time visitor, I want to be able to easily navigate the site to find the food menu and booking request form.
         3. As a first time visitor, I want to be able to easily find the cafe's location and visit it's social media accounts linked to the site to see their posts, posts they are tagged in by customers and how many followers they have.
 
-        #### Returning Visitor Goals
+        - #### Returning Visitor Goals
 
         1. As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.
         2 As a returning visitor, I want to check if the menu has been updated.
         3. As a returning visitor, I want to visit the social media links to check any new posts.
         4.  As a returning visitor, I want to check the cafe opening hours.
 
-        ### Design
+        - ### Design
 
-        #### Colour Scheme
+        - #### Colour Scheme
         - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance of being fun and attractive but also professional.  
+
+        - #### Typography 
+        - The Open Sans is used for the body and Roboto Slab is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts are easy to read and look nice and sleek.
+
+        - ### Imagery
+        - The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
+        
+        - ### Wireframes 
+        - Home Page Wireframe - 
+        - Menu Page Wireframe -
+        - Book Page Wireframe - 
+
+        
+
 
 
 

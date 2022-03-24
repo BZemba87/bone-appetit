@@ -102,7 +102,7 @@ Reserve Your Table Form:
 
     ## Testing
 
-I ran my code through the W3C Markup Validator and W3C Css Validator for every page of my site and I was given the following error on my menus.html file:
+I ran my code through the W3C Markup Validator and W3C CSS Validator for every page of my site and I was given the following error on my menus.html file:
 
 - Element < br > not allowed as a child of element < ul > (I used this for spacing between menu items on the menus page).  I have since corrected this error by removing all < br > elements and replaced them with padding for the lines that require space.  
 
@@ -119,6 +119,10 @@ I am now receiving no errors in my code on either validator.
 
 - [W3C CSS Full Report](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - [W3C HTML Full Report for Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Findex.html)
+- [W3C HTML Full Report for Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Fmenus.html)
+-[W3C HTML Full Report for Book](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Fbook.html)
+
+
 
 
 

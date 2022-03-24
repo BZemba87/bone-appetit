@@ -212,6 +212,13 @@ p  {
     /*position: absolute to keep at bottom of div container*/
 }
 
+#bagel {
+float: right;
+width: 30%;
+padding-top: 5rem;
+padding-bottom: 5rem;
+}
+
 /* book */
 
 .flex-container {
@@ -314,6 +321,10 @@ input, select {
     }
 
     div img {
+        display: none;
+    }
+
+    #bagel {
         display: none;
     }
 

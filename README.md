@@ -31,7 +31,7 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
     Typography:
 
-        - The Open Sans is used for the body and Roboto Slab is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts have been imported from Google Fonts and are easy to read and look nice and sleek.
+        - The Open Sans font is used for the body and Roboto Slab font is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts have been imported from Google Fonts and are easy to read and look nice and sleek.
 
     Imagery:
 
@@ -58,7 +58,7 @@ Footer:
 Layout and Content:
 
 - The Home page has some welcome text and a background image.
-- The Menus page has menus available in the cafe for dogs and humans plus a little note about food intolerances.
+- The Menus page has menus available in the cafe for dogs and humans plus a little note about food intolerances and an image.
 - The Book page has a booking form to reserve a table that requires name, email, phone, date, time and a dropdown menu to select number of guests.   An image is alongside the booking form.
 
 Hover effect on links:
@@ -73,6 +73,41 @@ Reserve Your Table Form:
 - Form validation requests user to input correct information in input fields when the 'Request Booking' button is pressed - this stops the user from submitting incorrect information.  
 
 <h2 align="center"><img src="docs/images/form-validation.jpg"></h2>
+
+## Languages, Libraries and Programs Used
+
+- [HTML5] (https://en.wikipedia.org/wiki/HTML5)
+- [CSS3] (https://en.wikipedia.org/wiki/CSS)
+
+- [Google Fonts:](https://fonts.google.com/)
+    - Google Fonts was used to import the 'Roboto Slab' font and 'Open Sans' font into the style.css file which is used on all pages throughout the site.
+- [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used in the footer for social media links on each page and on the menu page for the menu headings.
+
+- [Git](https://git-scm.com/)
+    - Git was used for version control, commiting and pushing to GitHub.
+- [GitHub:](https://github.com/)
+    - GitHub is used to store the repositories, files and images after being pushed from Git.
+
+- [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes] during the design process.
+- [Am I Responsive:](http://ami.responsivedesign.is)
+    - Used to test responsiveness of the website at different screen sizes.
+
+- [Pexels:](https://www.pexels.com/)
+        - Obtained pictures used in website from Pexels.
+
+- CHROME Developer tools
+    - For checking compatibilty, troubleshooting and editing code.
+
+    ## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+
+
+
+
 
 
 

@@ -122,6 +122,20 @@ I am now receiving no errors in my code on either validator.
 - [W3C HTML Full Report for Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Fmenus.html)
 - [W3C HTML Full Report for Book](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Fbook.html)
 
+## Lighthouse
+
+- I ran each page live through Chrome Lighthouse for Desktop and Mobile
+
+## Home 
+
+<h2 align="center"><img src="docs/images/lighthouse-home.jpg"></h2>
+
+## Menus
+
+<h2 align="center"><img src="docs/images/lighthouse-menus.jpg"></h2>
+
+
+
 
 
 

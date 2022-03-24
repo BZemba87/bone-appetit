@@ -102,7 +102,13 @@ Reserve Your Table Form:
 
     ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+I ran my code through the W3C Markup Validator and W3C Css Validator for every page of my site and I was given the following error on my menus.html file:
+
+- Element <br> not allowed as a child of element <ul> (I used this for spacing between menu items on the menus page).  I have since corrected this error by removing all <br> elements and replaced them with padding for the lines that require space.  
+
+I am now receiving no errors in my code on either validator.  
+
+
 
 
 

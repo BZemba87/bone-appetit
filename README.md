@@ -76,8 +76,8 @@ Reserve Your Table Form:
 
 ## Languages, Libraries and Programs Used
 
-- [HTML5] (https://en.wikipedia.org/wiki/HTML5)
-- [CSS3] (https://en.wikipedia.org/wiki/CSS)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 - [Google Fonts:](https://fonts.google.com/)
     - Google Fonts was used to import the 'Roboto Slab' font and 'Open Sans' font into the style.css file which is used on all pages throughout the site.

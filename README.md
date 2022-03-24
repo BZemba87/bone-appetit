@@ -126,15 +126,29 @@ I am now receiving no errors in my code on either validator.
 
 - I ran each page live through Chrome Lighthouse for Desktop and Mobile
 
-## Home 
+## Home (Desktop)
 
 <h2 align="center"><img src="docs/images/lighthouse-home.jpg"></h2>
 
-## Menus
+## Menus (Desktop)
 
 <h2 align="center"><img src="docs/images/lighthouse-menus.jpg"></h2>
 
+## Book (Desktop)
 
+<h2 align="center"><img src="docs/images/lighthouse-book.jpg"></h2>
+
+## Home (Mobile)
+
+<h2 align="center"><img src="docs/images/lighthouse-home-mobile.jpg"></h2>
+
+## Menus (Mobile)
+
+<h2 align="center"><img src="docs/images/lighthouse-menu-mobile.jpg"></h2>
+
+## Book (Mobile)
+
+<h2 align="center"><img src="docs/images/lighthouse-book-mobile.jpg"></h2>>
 
 
 

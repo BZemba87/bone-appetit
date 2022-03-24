@@ -29,7 +29,7 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
         - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance of being fun and attractive but also professional.  
 
         - #### Typography 
-        - The Open Sans is used for the body and Roboto Slab is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts are easy to read and look nice and sleek.
+        - The Open Sans is used for the body and Roboto Slab is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts have been imported from Google Fonts and are easy to read and look nice and sleek.
 
         - ### Imagery
         - The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
@@ -64,6 +64,12 @@ Hover effect on links:
 - A background colour (rgba(254,148,173,0.7) has been set for active links so the user knows which page they are currently on.
 
 <h2 align="center"><img src="docs/images/active-link.jpg"></h2>
+
+Reserve Your Table Form:
+
+- Form validation requests user to input correct information in input fields when the 'Request Booking' button is pressed - this stops the user from submitting incorrect information.  
+
+<h2 align="center"><img src="docs/images/form-validation.jpg"></h2>
 
 
 

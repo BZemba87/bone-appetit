@@ -48,6 +48,24 @@ Navigation Bar:
 
 <h2 align="center"><img src="docs/images/navigation-bar.jpg"></h2>
 
+Footer:
+
+<h2 align="center"><img src="docs/images/footer.jpg"></h2>
+
+Layout and Content:
+
+- The Home page has some welcome text and a background image.
+- The Menus page has menus available in the cafe for dogs and humans plus a little note about food intolerances.
+- The Book page has a booking form to reserve a table that requires name, email, phone, date, time and a dropdown menu to select number of guests.   An image is alongside the booking form.
+
+Hover effect on links:
+
+- Indicates to the user the location of the mouse whilst navigating the menu on the navigation bar.
+- A background colour (rgba(254,148,173,0.7) has been set for active links so the user knows which page they are currently on.
+
+<h2 align="center"><img src="docs/images/active-link.jpg"></h2>
+
+
 
 
 

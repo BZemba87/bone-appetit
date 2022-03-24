@@ -104,7 +104,7 @@ Reserve Your Table Form:
 
 I ran my code through the W3C Markup Validator and W3C Css Validator for every page of my site and I was given the following error on my menus.html file:
 
-- Element <br> not allowed as a child of element <ul> (I used this for spacing between menu items on the menus page).  I have since corrected this error by removing all <br> elements and replaced them with padding for the lines that require space.  
+- Element < br > not allowed as a child of element < ul > (I used this for spacing between menu items on the menus page).  I have since corrected this error by removing all < br > elements and replaced them with padding for the lines that require space.  
 
 I also had the following warning for 4 lines in my style.css file:
 

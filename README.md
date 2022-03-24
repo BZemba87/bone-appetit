@@ -150,6 +150,11 @@ I am now receiving no errors in my code on either validator.
 
 <h2 align="center"><img src="docs/images/lighthouse-book-mobile.jpg"></h2>
 
+## Accessibility 
+
+- Each page has been tested on wave.webaim.org for accessibility.
+- Click [here](https://wave.webaim.org/report#/https://bzemba87.github.io/bone-appetit/index.html) for full report
+
 
 
 

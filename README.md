@@ -106,7 +106,21 @@ I ran my code through the W3C Markup Validator and W3C Css Validator for every p
 
 - Element <br> not allowed as a child of element <ul> (I used this for spacing between menu items on the menus page).  I have since corrected this error by removing all <br> elements and replaced them with padding for the lines that require space.  
 
+I also had the following warning for 4 lines in my style.css file:
+
+- Family names containing whitespace should be quoted. If quoting is omitted, any whitespace characters before and after the name are ignored and any sequence of whitespace characters inside the name is converted to a single space.
+
+I fixed this by putting ' ' around my Roboto Slab font.  
+
 I am now receiving no errors in my code on either validator.  
+
+[CSS Screenshot](https://github.com/BZemba87/bone-appetit/blob/ffe7b7a5e0e03a5ec0f8cf3d88d7b311443d054d/W3C%20CSS%20Validator%20.jpg)
+[HTML Screenshot](https://github.com/BZemba87/bone-appetit/blob/b45b6db40d4666639da298d33cef00db7ace816b/W3C%20HTML%20Validator%20Results%20.jpg)
+
+[W3C CSS Full Report](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+[W3C HTML Full Report for Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Findex.html)
+
+
 
 
 

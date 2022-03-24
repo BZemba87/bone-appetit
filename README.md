@@ -61,7 +61,7 @@ Layout and Content:
 - The Menus page has menus available in the cafe for dogs and humans plus a little note about food intolerances and an image.
 - The Book page has a booking form to reserve a table that requires name, email, phone, date, time and a dropdown menu to select number of guests.   An image is alongside the booking form.
 
-Hover effect on links:
+Hover Effect on Links:
 
 - Indicates to the user the location of the mouse whilst navigating the menu on the navigation bar.
 - A background colour (rgba(254,148,173,0.7) has been set for active links so the user knows which page they are currently on.
@@ -121,6 +121,21 @@ I am now receiving no errors in my code on either validator.
 - [W3C HTML Full Report for Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Findex.html)
 - [W3C HTML Full Report for Menu](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Fmenus.html)
 - [W3C HTML Full Report for Book](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbzemba87.github.io%2Fbone-appetit%2Fbook.html)
+
+## Testing User Stories from User Experience
+
+### First Time Visitor Goals
+1.  I want to easily understand the main purpose of the site and learn more about a dog cafe in London.
+- Upon entering the site, users are greeted with easily readable welcome text explaining the purpose of the site, a clear and obvious title and a clean navigation bar to help the user go to the page of their choice.  
+
+2.  I want to be able to easily navigate the site to find the food menu and booking request form.
+- Users can instantly see the navigation bar when they arrive at the site as the font is very sleek and easy to read. With only 3 links (home, menus and book) to choose from, it becomes very easy to move around the site and find what they are looking for.  A background color activates for the link of the page the user is currently viewing.  
+
+3.   I want to be able to easily find the cafe's location and visit it's social media accounts linked to the site to see their posts, posts they are tagged in by customers and how many followers they have.
+- 
+
+
+
 
 ## Lighthouse
 

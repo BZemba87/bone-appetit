@@ -148,7 +148,7 @@ I am now receiving no errors in my code on either validator.
 
 ## Book (Mobile)
 
-<h2 align="center"><img src="docs/images/lighthouse-book-mobile.jpg"></h2>>
+<h2 align="center"><img src="docs/images/lighthouse-book-mobile.jpg"></h2>
 
 
 

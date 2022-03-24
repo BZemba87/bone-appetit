@@ -39,7 +39,15 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
         - Menu Page Wireframe -
         - Book Page Wireframe - 
 
-        
+## Features 
+
+- The site consists of 3 main pages - Home, Menus and Book.
+- Each page has the same layout - Header (title/icon), Navigation Bar (links to other pages), Body (text content, images and booking form), Footer (social media icons/links, opening hours, location and contact information).
+
+Navigation Bar:
+
+<h2 align="center"><img src="docs/images/navigation-bar.jpg"></h2>
+
 
 
 

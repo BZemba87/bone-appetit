@@ -16,7 +16,7 @@ body {
 /* heading and logo*/
 
 h1 {
-    font-family: "Roboto Slab", sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
     font-weight: 200;
     letter-spacing: 4px;
     color: black;
@@ -37,7 +37,7 @@ a {
 /* navigation links */
 
 #navbar {
-    font-family: "Roboto Slab", sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
     font-size: 95%;
     letter-spacing: 3px;   
     display: flex;
@@ -120,7 +120,7 @@ footer {
 }
 
 p  {
-    font-family: "Roboto Slab", sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
     text-align: center;
     letter-spacing: 2px;
     font-size: 85%;

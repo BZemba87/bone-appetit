@@ -19,7 +19,7 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
     Returning Visitor Goals
 
         1.  As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.
-        2.  As a returning visitor, I want to check if the menu has been updated.
+        2.  As a returning visitor, I want to check the menu again and see if it has been updated.
         3.  As a returning visitor, I want to visit the social media links to check any new posts.
         4.  As a returning visitor, I want to check the cafe opening hours.
 
@@ -27,7 +27,7 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
     Colour Scheme:
 
-        - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance of being fun and attractive but also professional.  
+        - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance between being fun and attractive but also professional.  
 
     Typography:
 
@@ -38,9 +38,7 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
         - The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
         
     Wireframes:
-        - Home Page Wireframe - 
-        - Menu Page Wireframe -
-        - Book Page Wireframe - 
+        - [Desktop Wireframes](https://github.com/BZemba87/bone-appetit/blob/62b78f82bee3989af25ce5003d885959c1ba9876/Bone%20Appetit%20Desktop.bmpr)
 
 ## Features 
 
@@ -126,15 +124,33 @@ I am now receiving no errors in my code on either validator.
 
 ### First Time Visitor Goals
 1.  I want to easily understand the main purpose of the site and learn more about a dog cafe in London.
-- Upon entering the site, users are greeted with easily readable welcome text explaining the purpose of the site, a clear and obvious title and a clean navigation bar to help the user go to the page of their choice.  
+- Upon entering the site, users are greeted with easily readable welcome text explaining the purpose of the site, a clear and obvious title and a clean navigation bar to help the user find the page they need to view.  
 
 2.  I want to be able to easily navigate the site to find the food menu and booking request form.
-- Users can instantly see the navigation bar when they arrive at the site as the font is very sleek and easy to read. With only 3 links (home, menus and book) to choose from, it becomes very easy to move around the site and find what they are looking for.  A background color activates for the link of the page the user is currently viewing.  
+- Users can instantly see the navigation bar when they arrive at the site as the font is very sleek and easy to read. With only 3 links (home, menus and book) to choose from, users will very quickly realise that it's very easy to move around the site and find what they are looking for.  A background color activates for the link of the page the user is currently viewing.  
 
 3.   I want to be able to easily find the cafe's location and visit it's social media accounts linked to the site to see their posts, posts they are tagged in by customers and how many followers they have.
-- 
+- Every page has the same layout so users can easily find the social media links in the footer (which will open up a new tab when clicked) so they can get a feel for the atmosphere of the cafe through the cafe's posts and the cafe customer's posts.  
+-  The cafe's location is in the exact same place in the footer no matter what area of the site the user is currently on.
 
+### Returning Visitor Goals
+1.  As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.
+- This information is clearly displayed in the footer of every page.  
 
+2.  As a returning visitor, I want to check the menu again and see if it has been updated.
+- The navigation bar clearly displays the link to the "Menus" page so users can easily check what they or their dog would like to eat in advance of their visit or check if there have been any alterations to the menu.
+
+3.  As a returning visitor, I want to visit the social media links to check any new posts.
+- Users can easily navigate the site to find the social media links in the footer of each page to check the cafe's latest social media posts.
+
+4.  As a returning visitor, I want to check the cafe opening hours.
+-  This information is easy for the user to find in the footer of every page of the website.  
+
+## More Testing
+
+Devices:
+- The website was tested on Google Chrome, Mozilla Firefox, Safari and Internet Explorer
+- The website was viewed on a variety of devices such as desktop, HP Pavillion laptop, MacBook Air, iPad 10.2, iPhone 12 mini, Samsung Galaxy s10e.
 
 
 ## Lighthouse

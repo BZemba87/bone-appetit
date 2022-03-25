@@ -8,34 +8,34 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
 ## User Experience
 
-    User Stories
+User Stories
 
-    First Time Visitor Goals
+First Time Visitor Goals
 
-        1.  As a first time visitor, I want to easily understand the main purpose of the site and learn more about a dog cafe in London.
-        2.  As a first time visitor, I want to be able to easily navigate the site to find the food menu and booking request form.
-        3.  As a first time visitor, I want to be able to easily find the cafe's location and visit it's social media accounts linked to the site to see their posts, posts they are tagged in by customers and how many followers they have.
+1.  As a first time visitor, I want to easily understand the main purpose of the site and learn more about a dog cafe in London.
+2.  As a first time visitor, I want to be able to easily navigate the site to find the food menu and booking request form.
+3.  As a first time visitor, I want to be able to easily find the cafe's location and visit it's social media accounts linked to the site to see their posts, posts they are tagged in by customers and how many followers they have.
 
-    Returning Visitor Goals
+Returning Visitor Goals
 
-        1.  As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.
-        2.  As a returning visitor, I want to check the menu again and see if it has been updated.
-        3.  As a returning visitor, I want to visit the social media links to check any new posts.
-        4.  As a returning visitor, I want to check the cafe opening hours.
+1.  As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.
+2.  As a returning visitor, I want to check the menu again and see if it has been updated.
+3.  As a returning visitor, I want to visit the social media links to check any new posts.
+4.  As a returning visitor, I want to check the cafe opening hours.
 
-    Design
+Design
 
-    Colour Scheme:
+Colour Scheme:
 
-        - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance between being fun and attractive but also professional.  
+- The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance between being fun and attractive but also professional.  
 
-    Typography:
+Typography:
 
-        - The Open Sans font is used for the body and Roboto Slab font is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts have been imported from Google Fonts and are easy to read and look nice and sleek.
+ - The Open Sans font is used for the body and Roboto Slab font is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts have been imported from Google Fonts and are easy to read and look nice and sleek.
 
-    Imagery:
+Imagery:
 
-        - The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
+- The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
         
 Wireframes - Desktop:
 - [Home](https://github.com/BZemba87/bone-appetit/blob/main/home-wireframe-desktop.jpg)
@@ -102,7 +102,11 @@ Reserve Your Table Form:
 
     ## Testing
 
-I ran my code through the W3C Markup Validator and W3C CSS Validator for every page of my site and I was given the following error on my menus.html file:
+I ran my code through the W3C Markup Validator and W3C CSS Validator for every page of my site.
+
+Errors:
+
+I was given the following error on my menus.html file:
 
 - Element < br > not allowed as a child of element < ul > (I used this for spacing between menu items on the menus page).  I have since corrected this error by removing all < br > elements and replaced them with padding for the lines that require space.  
 
@@ -151,13 +155,17 @@ I am now receiving no errors in my code on either validator.
 ## More Testing
 
 Devices:
-- The website was tested on Google Chrome, Mozilla Firefox, Safari and Internet Explorer
+- The website was tested on Google Chrome, Mozilla Firefox, Safari and Internet Explorer.
 - The website was viewed on a variety of devices such as desktop, HP Pavillion laptop, MacBook Air, iPad 10.2, iPhone 12 mini, Samsung Galaxy s10e.
 
+Functionality:
+- Each link has been hovered over and clicked on multiple times to ensure they work.
+- Each page and image loads correctly on all devices.
+- Social media links have been clicked on multiple times to ensure they work and open up a new tab as expected.
 
 ## Lighthouse
 
-- I ran each page live through Chrome Lighthouse for Desktop and Mobile
+- I ran each page live through Chrome Lighthouse for Desktop and Mobile:
 
 ## Home (Desktop)
 
@@ -186,7 +194,22 @@ Devices:
 ## Accessibility 
 
 - Each page has been tested on wave.webaim.org for accessibility.
-- Click [here](https://wave.webaim.org/report#/https://bzemba87.github.io/bone-appetit/index.html) for full report
+- Click [here](https://wave.webaim.org/report#/https://bzemba87.github.io/bone-appetit/index.html) for full report.
+
+## Solved Errors 
+
+- The navigation links wouldn't space out evenly along the bar.  I fixed this issue by using display: flex and justify-content: space-between.  Now the links are inline and evenly spaced.  
+
+- The booking form on the book page was sitting underneath the image and could not be positioned to the right of it using float.  I managed to position it correctly beside the image by instead using display: flex, flex-direction: row and justify-content: space-evenly.
+
+- There was an issue with the background color for the Human Menu heading where it was appearing in a larger block on iPhone SE and pushing the fork and knife icon down on to the next line.  This was fixed by removing the letter spacing in the media queries for smaller screens.  
+
+## Bugs
+
+- The background image on the home page sometimes overlaps the scroll bar in Dev Tools.  
+- The select dropdown and the request button on the booking form appear smaller than the other input fields on iPad 10.2, iphone 12 mini and in a Safari browser.
+
+
 
 
 

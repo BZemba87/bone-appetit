@@ -37,8 +37,10 @@ This is a website for a dog cafe in London named Bone Appetit.  It is designed t
 
         - The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
         
-    Wireframes:
-        - [Desktop Wireframes](https://github.com/BZemba87/bone-appetit/blob/62b78f82bee3989af25ce5003d885959c1ba9876/Bone%20Appetit%20Desktop.bmpr)
+Wireframes - Desktop:
+- [Home](https://github.com/BZemba87/bone-appetit/blob/main/home-wireframe-desktop.jpg)
+- [Menus](https://github.com/BZemba87/bone-appetit/blob/main/menus-wireframe-desktop.jpg)
+- [Book](https://github.com/BZemba87/bone-appetit/blob/main/menus-wireframe-desktop.jpg)
 
 ## Features 
 

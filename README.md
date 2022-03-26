@@ -209,6 +209,25 @@ Functionality:
 - The background image on the home page sometimes overlaps the scroll bar in Dev Tools.  
 - The select dropdown and the request button on the booking form appear smaller than the other input fields on iPad 10.2, iphone 12 mini and in a Safari browser.
 
+## Deployment
+
+GitHub Pages
+
+The site was deployed to GitHub Pages with the following steps:
+
+- Log in to GitHub and locate the GitHub Repository
+- At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+- Scroll down to "Github Pages" where it says "Pages settings now has its own dedicated tab!" - click on the link.
+- Under "Source", click the dropdown called "None" and select "Main Branch".
+- The page will automatically refresh and the now published site link in "GitHub  Pages" will appear.
+
+How to Fork a Repository:
+
+- Log in to GitHub and go to the repository (https://github.com/BZemba87/bone-appetit).
+- Click the "fork" button in the top right corner (just above "Settings").
+- This should generate a forked version of the repository in your own repository.
+
+
 
 
 

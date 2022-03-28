@@ -163,6 +163,7 @@ Functionality:
 - Each link has been hovered over and clicked on multiple times to ensure they work.
 - Each page and image loads correctly on all devices.
 - Social media links have been clicked on multiple times to ensure they work and open up a new tab as expected.
+- Title/icon links back to Home page as expected when clicked 
 
 ## Lighthouse
 
@@ -236,10 +237,41 @@ How to Make a Local Clone:
 - You should close the repository using HTTPS, clicking on the icon to copy the link
 - At this point, you can launch the Gitpod workspace or choose your own directory
 - Open Git Bash
-- Change the current working directory to the new location of where you want the cloned directory to be
 - Type git clone and then paste the URL you copied in step 4
-- Press Enter, to create your local clone to your chosen directory
+- Press Enter, to create your local clone to your chosen directory:
 
+            Cloning into 'bone-appetit'...
+            remote: Enumerating objects: 443, done.
+            remote: Counting objects: 100% (443/443), done.
+            remote: Compressing objects: 100% (275/275), done.
+            remote: Total 443 (delta 213), reused 320 (delta 108), pack-reused 0
+            Receiving objects: 100% (443/443), 7.72 MiB | 4.70 MiB/s, done.
+            Resolving deltas: 100% (213/213), done.
+
+## Credits
+
+- All content was written by the developer 
+- [Pexels:](https://www.pexels.com/)
+        - Obtained pictures used in website from Pexels
+
+Youtube Tutorials:
+- Kevin Powell (How to create an awesome navigation bar with HTML & CSS)
+- Web Dev Simplified (Responsive Nav Bar Tutorial)
+- Divinector (Responsive Nav Bar with Media Queries)
+
+Resolved Issues/Tips:
+- stackoverflow.com 
+- w3schools.com (How To - Stacked Form)
+- developer.mozilla.org
+- educative.io
+- Slack channel searches (helpful comments/posts from fellow CI students/mentors/tutors)
+- CI  tutorial/webinar on Flex 
+- Love Running - Essentials Project 
+- README.md  tips from fellow CI student Chris Williams and the CI example README.md 
+
+## Acknowledgments 
+
+- I would like to thank my mentor, Gerry, for his guidance and helpful feedback and also CI student Chris Williams for taking the time to offer some help, answer some questions and make some suggestions.
 
 
 

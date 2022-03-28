@@ -287,6 +287,10 @@ input, select {
 h2 {
     font-size: 26px;
 }
+
+#dog-drirnks {
+    padding-top: 50px;
+}
 }
 
 @media screen and (max-width: 500px) {

@@ -269,7 +269,7 @@ Resolved Issues/Tips:
 - Love Running - Essentials Project 
 - README.md  tips from fellow CI student Chris Williams and the CI example README.md 
 
-## Acknowledgments 
+## Acknowledgements 
 
 - I would like to thank my mentor, Gerry, for his guidance and helpful feedback and also CI student Chris Williams for taking the time to offer some help, answer some questions and make some suggestions.
 

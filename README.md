@@ -46,6 +46,7 @@ Wireframes - Desktop:
 
 - The site consists of 3 main pages - Home, Menus and Book.
 - Each page has the same layout - Header (title/icon), Navigation Bar (links to other pages), Body (text content, images and booking form), Footer (social media icons/links, opening hours, location and contact information).
+- User can click title/icon on any page and it will take them back to the Home page.  
 
 Navigation Bar:
 
@@ -226,6 +227,18 @@ How to Fork a Repository:
 - Log in to GitHub and go to the repository (https://github.com/BZemba87/bone-appetit).
 - Click the "fork" button in the top right corner (just above "Settings").
 - This should generate a forked version of the repository in your own repository.
+
+How to Make a Local Clone:
+
+- If you have not already, login in to GitHub and go to https://github.com/BZemba87/bone-appetit 
+- Under the repository name, above the list of files, click Code
+- Here you will have two options, Clone or Download the repository
+- You should close the repository using HTTPS, clicking on the icon to copy the link
+- At this point, you can launch the Gitpod workspace or choose your own directory
+- Open Git Bash
+- Change the current working directory to the new location of where you want the cloned directory to be
+- Type git clone and then paste the URL you copied in step 4
+- Press Enter, to create your local clone to your chosen directory
 
 
 

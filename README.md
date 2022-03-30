@@ -270,7 +270,7 @@ Resolved Issues/Tips:
 
 ## Acknowledgements 
 
-- I would like to thank my mentor, Gerry, for his guidance and helpful feedback and also CI student Chris Williams for taking the time to offer some help, answer some questions and make some suggestions.
+- I would like to thank my mentor, Gerry McBride, for his guidance and helpful feedback and also CI student Chris Williams for taking the time to offer some help with media queries, answer some questions and make some suggestions.
 
 
 

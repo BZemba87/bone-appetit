@@ -168,7 +168,7 @@ Functionality:
 
 ## Lighthouse
 
-- I ran each page live through Chrome Lighthouse for Desktop and Mobile:
+- Each live page has been tested on Chrome Lighthouse for Desktop and Mobile:
 
 ## Home (Desktop)
 

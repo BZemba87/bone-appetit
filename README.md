@@ -117,7 +117,7 @@ I also had the following warning for 4 lines in my style.css file:
 
 I fixed this by putting ' ' around my Roboto Slab font.  
 
-I am now receiving no errors in my code on either validator.  
+I am now receiving no errors in my code on either validator.   Please see results below:
 
 - [CSS Screenshot](https://github.com/BZemba87/bone-appetit/blob/ffe7b7a5e0e03a5ec0f8cf3d88d7b311443d054d/W3C%20CSS%20Validator%20.jpg)
 - [HTML Screenshot](https://github.com/BZemba87/bone-appetit/blob/b45b6db40d4666639da298d33cef00db7ace816b/W3C%20HTML%20Validator%20Results%20.jpg)
@@ -163,7 +163,7 @@ Functionality:
 - Each link has been hovered over and clicked on multiple times to ensure they work.
 - Each page and image loads correctly on all devices.
 - Social media links have been clicked on multiple times to ensure they work and open up a new tab as expected.
-- Title/icon links back to Home page as expected when clicked 
+- Title/icon links back to Home page as expected when clicked anywhere on the site.
 
 ## Lighthouse
 

@@ -93,7 +93,7 @@ div {
     padding-top: 5.9375rem;
     padding-left: 3rem;
     position: absolute;
-    /*to keep text in place relative to the background image*/
+    /*position:absolute to keep text in place relative to the background image*/
 }
 
 /* footer */

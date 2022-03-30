@@ -150,8 +150,8 @@ I am now receiving no errors in my code on either validator.   Please see result
 3.  As a returning visitor, I want to visit the social media links to check any new posts.
 - Users can easily navigate the site to find the social media links in the footer of each page to check the cafe's latest social media posts.
 
-4.  As a returning visitor, I want to check the cafe opening hours.
--  This information is easy for the user to find in the footer of every page of the website.  
+4.  As a returning visitor, I want to check the cafe opening hours and easily find the booking form to make a booking.
+-  The opening hours is clearly displayed in the footer of every page of the website and the booking form is easily located by clicking "Book" on the navigation bar.  
 
 ## More Testing
 

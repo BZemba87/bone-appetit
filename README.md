@@ -62,10 +62,11 @@ Layout and Content:
 - The Menus page has menus available in the cafe for dogs and humans plus a little note about food intolerances and an image.
 - The Book page has a booking form to reserve a table that requires name, email, phone, date, time and a dropdown menu to select number of guests.   An image is alongside the booking form.
 
-Hover Effect on Links:
+Hover Effect on Links and Form Button:
 
 - Indicates to the user the location of the mouse whilst navigating the menu on the navigation bar.
 - A background colour (rgba(254,148,173,0.7) has been set for active links so the user knows which page they are currently on.
+- A background colour (#FE94AD) has been set for "Request Booking" button on booking form for when the user hovers over it.  
 
 <h2 align="center"><img src="docs/images/active-link.jpg"></h2>
 
@@ -210,6 +211,7 @@ Functionality:
 
 - The background image on the home page sometimes overlaps the scroll bar in Dev Tools.  
 - The select dropdown and the request button on the booking form appear smaller than the other input fields on iPad 10.2, iphone 12 mini and in a Safari browser.
+- Without making any changes to any of the code, "puppuccino" is now not displaying in line with "coffee, tea or fresh juices" on Samsung s10e device, however, when checking the size of the device in Dev Tools it is showing correctly.
 
 ## Deployment
 

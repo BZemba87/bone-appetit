@@ -2,7 +2,7 @@
 
 [View the live project here.](https://bzemba87.github.io/bone-appetit/)
 
-This is a website for a dog cafe in London named Bone Appetit.  It is designed to be responsive and accessible on a selection of devices, making it easy to navigate for potential cafe customers.
+This is a website for a dog cafe in London named Bone Appetit.  The purpose of the website is to provide potential or exisitng cafe customers with helpful information about the cafe, such as:  food available on the menus for both dogs and humans, the cafe's location, contact details, social media accounts and how to book.  It is designed to be responsive and accessible on a selection of devices, making it easy to navigate for cafe customers.
 
 <h2 align="center"><img src="docs/images/am-i-responsive.jpg"></h2>
 

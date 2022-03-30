@@ -176,7 +176,7 @@ Functionality:
 
 ## Menus (Desktop)
 
-<h2 align="center"><img src="docs/images/lighthouse-menus.jpg"></h2>
+<h2 align="center"><img src="docs/images/lighthouse-menus-desktop.jpg"></h2>
 
 ## Book (Desktop)
 

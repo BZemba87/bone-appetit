@@ -23,7 +23,7 @@ Returning Visitor Goals
 3.  As a returning visitor, I want to visit the social media links to check any new posts.
 4.  As a returning visitor, I want to check the cafe opening hours and make a booking.
 
-Design
+## Design
 
 Colour Scheme:
 

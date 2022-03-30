@@ -21,7 +21,7 @@ Returning Visitor Goals
 1.  As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.
 2.  As a returning visitor, I want to check the menu again and see if it has been updated.
 3.  As a returning visitor, I want to visit the social media links to check any new posts.
-4.  As a returning visitor, I want to check the cafe opening hours.
+4.  As a returning visitor, I want to check the cafe opening hours and make a booking.
 
 Design
 
@@ -139,7 +139,7 @@ I am now receiving no errors in my code on either validator.   Please see result
 
 3.   I want to be able to easily find the cafe's location and visit it's social media accounts linked to the site to see their posts, posts they are tagged in by customers and how many followers they have.
 - Every page has the same layout so users can easily find the social media links in the footer (which will open up a new tab when clicked) so they can get a feel for the atmosphere of the cafe through the cafe's posts and the cafe customer's posts.  
--  The cafe's location is in the exact same place in the footer no matter what area of the site the user is currently on.
+-  The cafe's location is in the exact same place in the footer of every page the user will be viewing.
 
 ### Returning Visitor Goals
 1.  As a returning visitor, I want to find the contact information for any general queries or queries about an existing booking I may have.

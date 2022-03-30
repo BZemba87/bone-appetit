@@ -208,7 +208,7 @@ Functionality:
 
 - The background image on the home page sometimes overlaps the scroll bar in Dev Tools.  
 - The select dropdown and the request button on the booking form appear smaller than the other input fields on iPad 10.2, iphone 12 mini and in a Safari browser.
-- Without making any changes to any of the code, "puppuccino" is now not displaying in line with "coffee, tea or fresh juices" on Samsung s10e device, however, when checking the size of the device in Dev Tools it is showing correctly.
+- Without making any changes to any of the code, "puppuccino" is now not displaying in line with "coffee, tea or fresh juices" on Samsung s10e device, however, when checking the size of the device in Dev Tools it is showing correctly.  I have tried adding padding to fix this in the media query but it hasn't worked.  
 
 ## Deployment
 

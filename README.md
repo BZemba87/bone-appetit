@@ -236,7 +236,7 @@ How to Make a Local Clone:
 - If you have not already, login in to GitHub and go to https://github.com/BZemba87/bone-appetit 
 - Under the repository name, above the list of files, click Code
 - Here you will have two options, Clone or Download the repository
-- You should close the repository using HTTPS, clicking on the icon to copy the link
+- Clone the repository using HTTPS by clicking on the icon to copy the link
 - At this point, you can launch the Gitpod workspace or choose your own directory
 - Open Git Bash
 - Type git clone and then paste the URL you copied in step 4

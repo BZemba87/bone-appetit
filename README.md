@@ -8,7 +8,7 @@ This is a website for a dog cafe in London named Bone Appetit.  The purpose of t
 
 ## User Experience
 
-User Stories
+### User Stories
 
 First Time Visitor Goals
 
@@ -25,15 +25,15 @@ Returning Visitor Goals
 
 ## Design
 
-Colour Scheme:
+### Colour Scheme:
 
 - The colours I chose for Bone Appetit are #FFF6FE (very light shade of magenta); #FE94AD (light red); black and #36454F (charcoal).  As it is a cafe website, the colours have to provide a taste of the cafe's personality which is a good balance between being fun and attractive but also professional.  
 
-Typography:
+### Typography:
 
  - The Open Sans font is used for the body and Roboto Slab font is used for the headings and footer.  Sans-serif is selected as the fallback font if there is a problem with importing either font to the site.  Both fonts have been imported from Google Fonts and are easy to read and look nice and sleek.
 
-Imagery:
+### Imagery:
 
 - The background image on the home page is eye catching and relevant for a dog cafe site with a purpose to attract dog lovers.  It's modern and minimalist look sets the tone for the entire cafe.
         
@@ -48,21 +48,21 @@ Wireframes - Desktop:
 - Each page has the same layout - Header (title/icon), Navigation Bar (links to other pages), Body (text content, images and booking form), Footer (social media icons/links, opening hours, location and contact information).
 - User can click title/icon on any page and it will take them back to the Home page.  
 
-Navigation Bar:
+### Navigation Bar:
 
 <h2 align="center"><img src="docs/images/navigation-bar.jpg"></h2>
 
-Footer:
+### Footer:
 
 <h2 align="center"><img src="docs/images/footer.jpg"></h2>
 
-Layout and Content:
+### Layout and Content:
 
 - The Home page has some welcome text and a background image.
 - The Menus page has menus available in the cafe for dogs and humans plus a little note about food intolerances and an image.
 - The Book page has a booking form to reserve a table that requires name, email, phone, date, time and a dropdown menu to select number of guests.   An image is alongside the booking form.
 
-Hover Effect on Links and Form Button:
+### Hover Effect on Links and Form Button:
 
 - Indicates to the user the location of the mouse whilst navigating the menu on the navigation bar.
 - A background colour (rgba(254,148,173,0.7) has been set for active links so the user knows which page they are currently on.
@@ -70,7 +70,7 @@ Hover Effect on Links and Form Button:
 
 <h2 align="center"><img src="docs/images/active-link.jpg"></h2>
 
-Reserve Your Table Form:
+### Reserve Your Table Form:
 
 - Form validation requests user to input correct information in input fields when the 'Request Booking' button is pressed - this stops the user from submitting incorrect information.  
 
@@ -106,7 +106,7 @@ Reserve Your Table Form:
 
 I ran my code through the W3C Markup Validator and W3C CSS Validator for every page of my site.
 
-Errors:
+### Errors:
 
 I was given the following error on my menus.html file:
 
@@ -153,11 +153,11 @@ I am now receiving no errors in my code on either validator.   Please see result
 
 ## More Testing
 
-Devices:
+### Devices:
 - The website was tested on Google Chrome, Mozilla Firefox, Safari and Internet Explorer.
 - The website was viewed on a variety of devices such as desktop, HP Pavillion laptop, MacBook Air, iPad 10.2, iPhone 12 mini, Samsung Galaxy s10e.
 
-Functionality:
+### Functionality:
 - Each link has been hovered over and clicked on multiple times to ensure they work.
 - Each page and image loads correctly on all devices.
 - Social media links have been clicked on multiple times to ensure they work and open up a new tab as expected.
@@ -212,7 +212,7 @@ Functionality:
 
 ## Deployment
 
-GitHub Pages
+### GitHub Pages
 
 The site was deployed to GitHub Pages with the following steps:
 
@@ -222,13 +222,13 @@ The site was deployed to GitHub Pages with the following steps:
 - Under "Source", click the dropdown called "None" and select "Main Branch".
 - The page will automatically refresh and the now published site link in "GitHub  Pages" will appear.
 
-How to Fork a Repository:
+### How to Fork a Repository:
 
 - Log in to GitHub and go to the repository (https://github.com/BZemba87/bone-appetit).
 - Click the "fork" button in the top right corner (just above "Settings").
 - This should generate a forked version of the repository in your own repository.
 
-How to Make a Local Clone:
+### How to Make a Local Clone:
 
 - If you have not already, login in to GitHub and go to https://github.com/BZemba87/bone-appetit 
 - Under the repository name, above the list of files, click Code
@@ -253,12 +253,12 @@ How to Make a Local Clone:
 - [Pexels:](https://www.pexels.com/)
         - Obtained pictures used in website from Pexels
 
-Youtube Tutorials:
+### Youtube Tutorials:
 - Kevin Powell (How to create an awesome navigation bar with HTML & CSS)
 - Web Dev Simplified (Responsive Nav Bar Tutorial)
 - Divinector (Responsive Nav Bar with Media Queries)
 
-Resolved Issues/Tips:
+### Resolved Issues/Tips:
 - stackoverflow.com 
 - w3schools.com (How To - Stacked Form)
 - developer.mozilla.org
